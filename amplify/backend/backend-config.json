@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "nuxtinsta40307ade40307ade": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "s33b7cfa0b": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
